@@ -1,0 +1,14 @@
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\bin\Debug\restaurant-automation.exe.config
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\bin\Debug\restaurant-automation.exe
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\bin\Debug\restaurant-automation.pdb
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant-automation.csprojAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant_automation.Login_Page.resources
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant_automation.Properties.Resources.resources
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant-automation.csproj.GenerateResource.cache
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant-automation.csproj.CoreCompileInputs.cache
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant-automation.exe
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant-automation.pdb
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant_automation.Order_Page.resources
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\bin\Debug\rest-app.accdb
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant_automation.Welcome_Page.resources
+C:\Users\DALYAN PC\Desktop\restaurant-automation\restaurant-automation\restaurant-automation\obj\Debug\restaurant_automation.Setting_Page.resources
